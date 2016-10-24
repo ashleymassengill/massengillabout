@@ -1,0 +1,183 @@
+a{
+  text-decoration: none;
+}
+
+h1, a.nav1{
+  color: white;
+  font-family: "Bad Script", Arial, sans-serif;
+  font-size: 100px;
+  text-align: center;
+  padding-top: 105px;
+  margin: 0;
+}
+
+a.nav{
+  text-decoration: none;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 25px;
+  color: white;
+  padding-right: 35px;
+  margin: 0 auto;
+}
+
+a:hover{
+  color: #B891FF;
+}
+
+p{
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  color: #BAAD97;
+}
+
+ul{
+  text-align: center;
+}
+
+li{
+  display: inline;
+  text-align: center;
+}
+
+li.contact1{
+  padding: 10px;
+}
+
+h4{
+  font-family: "Bad Script", Arial, sans-serif;
+  font-size: 26px;
+  color: #BAAD97;
+}
+
+table.contactinfo{
+  margin: 0 auto;
+}
+
+td, th {
+  padding: 1rem;
+}
+
+br{
+  clear: both;
+}
+
+.head{
+  color: white;
+  background-image: url("../images/header.jpg");
+  background-position: center;
+  height: 350px;
+}
+
+.aboutme{
+  margin: 0 auto;
+  margin-top: 20px;
+  max-width: 70%;
+}
+
+.me{
+  float: left;
+}
+
+.photo1{
+  width: 35%;
+  margin-left: 5%;
+  margin-bottom: 2%;
+}
+
+.about{
+  width: 50%;
+  margin-left: 5%;
+  margin-bottom: 2%;
+  border: 4px solid #ADA18D;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.volunteer{
+  width: 40%;
+  margin-left: 5%;
+  margin-bottom: 2%;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 100;
+  color: #BAAD97;
+  padding-left: 10px;
+  padding-bottom: 15px;
+  border: 4px solid #ADA18D;
+  border-radius: 10px;
+}
+
+.photo2, .photo3, .photo4{
+  width: 12%;
+  margin-left: 5%;
+  margin-bottom: 2%;
+}
+
+.photo5, .photo6{
+  width: 22%;
+  margin-left: 5%;
+  margin-bottom: 2%;
+}
+
+.rules{
+  width: 36%;
+  margin-left: 5%;
+  margin-bottom: 2%;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 100;
+  color: #BAAD97;
+  border: 4px solid #ADA18D;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.photo7, .photo8, .photo9{
+  width: 27.5%;
+  margin-left: 5%;
+  margin-bottom: 2%;
+}
+
+.contact{
+  width: 100%;
+  border: 4px solid #ADA18D;
+  border-radius: 10px;
+  padding: 10px
+}
+
+.social{
+  clear: both;
+  max-width: 70%;
+  margin: 0 auto;
+  font-family: Arial;
+  font-size=:14px;
+  color: black;
+}
+
+.books{
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 100;
+  color: #BAAD97;
+  text-align: center;
+  border: 4px solid #ADA18D;
+  border-radius: 10px;
+  max-width: 75%;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.music{
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.calendar, iframe{
+  display: block;
+  margin: 0 auto;
+}
